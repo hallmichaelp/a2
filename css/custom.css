@@ -1,0 +1,24 @@
+header {
+  margin: 20px 0px;
+  border-bottom: 1px solid black;
+}
+
+label {
+  display: inline-block;
+  width: 200px;
+  text-align: right;
+}
+
+input {
+  display: inline;
+  margin-left: 10px;
+}
+
+select {
+  display: inline;
+  margin-left: 10px;
+}
+
+.buttonCustom {
+  margin-top: 25px;
+}
