@@ -16,7 +16,7 @@
       </div>
     </header>
 
-    <h5>Here are the general instructions for creating a password.</h5>
+    <h5>Populate the fields below to generate a random password that you may use.</h5>
 
     <!-- Form Section -->
 
