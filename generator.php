@@ -38,7 +38,7 @@ $password = new Password($_POST['password_length'], $_POST['case'], !empty($_POS
 
     <div class="row">
       <div class="twelve columns">
-        <input class="button" type="submit" value="Copy to Clipboard">
+        <a href="index.php"><input class="button" type="submit" value="Try Again"></input></a>
       </div>
     </div>
 
