@@ -5,7 +5,7 @@ header {
 
 label {
   display: inline-block;
-  width: 200px;
+  width: 150px;
   text-align: right;
 }
 
@@ -20,5 +20,17 @@ select {
 }
 
 .buttonCustom {
+  margin-top: 25px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.password {
+  font-style: bold;
+}
+
+.pushDown {
   margin-top: 25px;
 }
