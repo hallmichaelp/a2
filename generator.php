@@ -38,7 +38,7 @@ $password = new Password($_POST['password_length'], $_POST['case'], !empty($_POS
 
     <div class="row">
       <div class="twelve columns">
-        <a href="index.php"><input class="button" type="submit" value="Try Again"></input></a>
+        <input class="button" type="submit" value="Try Again" onclick="window.location.href='http://a2.michaelpatrickhall.com/'">
       </div>
     </div>
 
@@ -60,5 +60,6 @@ $password = new Password($_POST['password_length'], $_POST['case'], !empty($_POS
         </ul>
       </div>
     </div>
-  </body>
+  </div>
+</body>
 </html>
